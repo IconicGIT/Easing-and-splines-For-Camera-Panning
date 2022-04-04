@@ -1,29 +1,20 @@
-# {Project Name}
+# Example for Camera Panning
 
 ## Description
 
-{project description}
-
-## Key Features
-
- - {Feature01}
- - {Feature02}
- - {Feature03}
- - {Feature04}
+When executing the code, you will see a simple player in white near a green box. When touching the box, the cammera will pan around the enviroment. Feel free to inspect the code.
  
 ## Controls
 
- - {ControlsScheme}
+Use Arrows to move.
 
 ## Developers
 
- - {Dev01} - {Role(s)}
- - {Dev02} - {Role(s)}
- - {Dev03} - {Role(s)}
- - {Dev04} - {Role(s)}
+ <b>Tweeny</b> library by [mobius2](URL 'https://github.com/mobius3')
+ 
+ <b>Tween.h</b> library by [IconicGIT](URL 'https://github.com/IconicGIT') 
 
 ## License
 
 This project is licensed under an unmodified MIT license, which is an OSI-certified license that allows static linking with closed source software. Check [LICENSE](LICENSE) for further details.
 
-{AdditionalLicenses}
